@@ -1,0 +1,33 @@
+
+body{
+	height: 1500px;
+	/*background-color: green;*/
+}
+/*
+
+/*********************/
+/*
+body {
+	background-image:url('fundos/paper.gif');
+}
+*/
+
+body{
+	background-image:url('fundos/gradient.png');
+	background-repeat:repeat-x;
+/*	background-repeat:repeat-y;*/
+}
+
+/*
+body{
+	background-image:url('fundos/img_tree.png');
+	background-repeat:no-repeat;
+	background-position:right top;
+	margin-right:200px;
+}
+*/
+/*
+body {
+	background: #CCCCFF url('fundos/fundo.png')no-repeat fixed 200px 70px;
+}
+*/
